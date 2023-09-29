@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "水の音を昔のようにする for v1.20.30",
+    "description": "水のサウンドを1.20.10以前のようにします\n1.20.30にのみ対応\nby YuuhaLand",
+    "uuid": "48ca1ebf-343b-4c7f-a82b-b738e705f14c",
+    "version": [ 1, 0, 0 ],
+    "min_engine_version": [ 1, 13, 0 ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "ce012357-6909-4212-b863-418a14a983ab",
+      "version": [ 1, 0, 0 ]
+    }
+  ]
+}
